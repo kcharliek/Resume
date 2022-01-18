@@ -1,6 +1,6 @@
 # 김찬희
 
-개인 정보
+## 개인 정보
 
 - [Github](https://github.com/kcharliek)
 - chanhee.kim00@gmail.com
