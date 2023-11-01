@@ -30,6 +30,8 @@
 | [라인웹툰 [iOS]](https://apps.apple.com/us/app/id894546091)  | 네이버 웹툰의 글로벌 서비스                       | 2019~2021 | 서비스 중 |
 | [라인망가 [iOS]](https://apps.apple.com/jp/app/id597088068)  | 네이버 웹툰의 일본 서비스                         | 2021      | 서비스 중 |
 | [시리즈온 [iOS]](https://apps.apple.com/kr/app/id530059576)  | 네이버의 OTT 서비스                               | 2022      | 서비스 중 |
+| [큐마켓 [iOS]](https://apps.apple.com/kr/app/id1514329713)  | 식자재마트와 소비자를 잇는 마켓 서비스                               | 2023      | 서비스 중 |
+| [포슬리]  | 반려동물 SNS                               | 2023      | 배포 전 중 |
 
 ## 활동
 
